@@ -8,3 +8,4 @@
 - Machine Learning
 - [Functional Programming](FP.md)
 - Computer Architecture
+- [Hacking](Hack.md)
