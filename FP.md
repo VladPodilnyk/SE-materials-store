@@ -4,6 +4,17 @@ For now it's just a list of resources on Scala and FP, but I'd like to make it a
 
 ## Scala learnig resources
 
+### Courses
+- [Scala.ZONE](https://scala.zone/)
+
+### Papers & readings
+- [Effects without monads](https://github.com/julienrf/effects-without-monads-but-with-dotty)
+
+#### Concurrency
+- [CE3 concurrency](https://typelevel.org/blog/2020/10/30/concurrency-in-ce3.html)
+- [How fibers works](https://gist.github.com/djspiewak/d9930891d419c26fac1d58b5274f45ba)
+- 
+
 ### Blogs
 - [haoyi's programmig blog](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html) - good article about implicits [here](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html))
 - [kubuszok.com](https://kubuszok.com) - good article about implicits [here](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1), good to start with [this](https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/
